@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124494030596",
+    "firebase_url": "https://lawyer-caebe.firebaseio.com",
+    "project_id": "lawyer-caebe",
+    "storage_bucket": "lawyer-caebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124494030596:android:801e153a8d26e7d4ef1251",
+        "android_client_info": {
+          "package_name": "com.abdallah.lawyerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124494030596-450l0ktco1fdou06m44r52gf7mjhei7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12LxjCoZgerk4ceq-UwJeqLjU9HxvNjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124494030596-450l0ktco1fdou06m44r52gf7mjhei7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
